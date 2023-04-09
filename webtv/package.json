@@ -1,0 +1,15 @@
+{
+  "name": "webtv",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^23.2.2",
+    "express": "^4.18.2"
+  },
+  "description": ""
+}
